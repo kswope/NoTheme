@@ -1,0 +1,21 @@
+{
+  "name": "notheme",
+  "displayName": "notheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "notheme",
+        "uiTheme": "vs",
+        "path": "./themes/notheme-color-theme.json"
+      }
+    ]
+  }
+}
