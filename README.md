@@ -15,5 +15,5 @@ put in
 select with
 
 ```
-⌘K⌘T
+⌘K ⌘T
 ```
