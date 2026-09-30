@@ -11,3 +11,9 @@ put in
 ```
 ~/.vscode/extensions
 ```
+
+select with
+
+```
+⌘K⌘T
+```
